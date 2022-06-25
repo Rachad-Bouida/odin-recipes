@@ -1,0 +1,19 @@
+img{
+    width: 300px;
+    height: auto;
+}
+
+h1{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p, li{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+a:hover{
+    color: red;
+}
